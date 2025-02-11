@@ -94,8 +94,8 @@ nav a:hover {
 }
 
 main h1 {
-    color: var(--cor5);
     font-family: var(--fonte-android);
+    color: var(--cor5);
     font-weight: normal;
     font-size: 1.8em;
 }
@@ -188,7 +188,6 @@ footer {
     text-align: center;
     font-size: 0.8em;
     padding: 5px;
-    position: ;
 }
 
 footer p a {
